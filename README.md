@@ -26,5 +26,5 @@ __Go to the in *Line number 13* change the *ticker* to the preferded organizatio
  
  `pip install plotly`
 
-*Graph*
+**Graph**
 ![](Graph.png)
